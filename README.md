@@ -11,3 +11,5 @@
 - Lastly, the program will also ask if the customer wants to have the copy of the receipt.
 
 ## Screenshot
+
+![cashier](https://user-images.githubusercontent.com/26729817/28307620-07ebc27e-6bd6-11e7-82c8-78e5e8a8f70b.png)
